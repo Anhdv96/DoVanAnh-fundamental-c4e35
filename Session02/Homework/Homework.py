@@ -2,6 +2,7 @@
 # Ví dụ: 1 <= 2, 10 == 10, 1 < 2
 # flow chart là: một biểu đồ khối sơ đồ đại diện cho một quy trình công việc, một quy trình hoặc thuật toán máy tính
 # nested conditionals là: điều kiện lồng nhau, một điều kiện có thể được lồng trong một cái khác
+https://drive.google.com/file/d/1LQyHYPPkNTzrsRx0IjOM__Npk4hoRjBi/view?usp=sharing
 x = 10
 y = 10
 
@@ -12,4 +13,7 @@ else:
         print("x is greater than y")
     else:
         print("x and y must be equal")
+
+
+        
         
